@@ -8,7 +8,7 @@
 
 class DyttPipeline(object):
     def process_item(self, item, spider):
-        #print item['cnname'][0]
+        print item['cnname'][0]
         #print item['date'][0]
         #print item['link'][0]
         return item
