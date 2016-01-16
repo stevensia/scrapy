@@ -1,0 +1,240 @@
+[译] 企业级 OpenStack 的六大需求（第 3 部分）：弹性架构、全球交付 - SammyLiu - 博客园
+2015-12-21 07:36
+http://www.cnblogs.com/sammyliu/p/5060464.html
+[译] OpenStack Kilo 版本中 Neutron 的新变化 - SammyLiu - 博客园
+2015-12-08 21:15
+http://www.cnblogs.com/sammyliu/p/5028647.html
+Neutron VxLAN + Linux Bridge 环境中的网络 MTU - SammyLiu - 博客园
+2015-12-28 11:18
+http://www.cnblogs.com/sammyliu/p/5079898.html
+[译] 企业级 OpenStack 的六大需求（第 2 部分）：开放架构和混合云兼容 - SammyLiu - 博客园
+2015-12-20 07:28
+http://www.cnblogs.com/sammyliu/p/5058947.html
+理解 OpenStack 高可用(HA) （7）: Pacemaker 和 OpenStack Resource Agent （RA） - SammyLiu - 博客园
+2015-12-07 23:43
+http://www.cnblogs.com/sammyliu/p/5025362.html
+[译] OpenStack Liberty 版本中的53个新变化 - SammyLiu - 博客园
+2015-11-28 09:23
+http://www.cnblogs.com/sammyliu/p/5002172.html
+理解 QEMU/KVM 和 Ceph（1）：QEMU-KVM 和 Ceph RBD 的 缓存机制总结 - SammyLiu - 博客园
+2015-12-23 08:56
+http://www.cnblogs.com/sammyliu/p/5066895.html
+[译] 企业级 OpenStack 的六大需求（第 1 部分）：API 高可用、管理和安全 - SammyLiu - 博客园
+2015-12-19 10:29
+http://www.cnblogs.com/sammyliu/p/5058707.html
+理解 QEMU/KVM 和 Ceph（2）：QEMU 的 RBD 块驱动（block driver） - SammyLiu - 博客园
+2016-01-03 16:18
+http://www.cnblogs.com/sammyliu/p/5095976.html
+理解 OpenStack 高可用(HA) （6）: MySQL HA - SammyLiu - 博客园
+2015-11-26 17:22
+http://www.cnblogs.com/sammyliu/p/4995868.html
+Neutron 理解（14）：Neutron ML2 + Linux bridge + VxLAN 组网 - SammyLiu - 博客园
+2015-11-25 08:42
+http://www.cnblogs.com/sammyliu/p/4985907.html
+理解 OpenStack + Ceph （2）：Ceph 的物理和逻辑结构 [Ceph Architecture] - SammyLiu - 博客园
+2015-09-29 08:41
+http://www.cnblogs.com/sammyliu/p/4836014.html
+理解 OpenStack + Ceph （5）：OpenStack 与 Ceph 之间的集成 [OpenStack Integration with Ceph] - SammyLiu - 博客园
+2015-10-16 08:50
+http://www.cnblogs.com/sammyliu/p/4838138.html
+理解 OpenStack + Ceph （4）：Ceph 的基础数据结构 [Pool, Image, Snapshot, Clone] - SammyLiu - 博客园
+2015-10-13 09:06
+http://www.cnblogs.com/sammyliu/p/4843812.html
+理解 OpenStack Swift （3）：监控和一些影响性能的因素 [Monitoring and Performance] - SammyLiu - 博客园
+2015-11-17 10:16
+http://www.cnblogs.com/sammyliu/p/4964528.html
+几个 Ceph 性能优化的新方法和思路（2015 SH Ceph Day 参后感） - SammyLiu - 博客园
+2015-10-26 08:58
+http://www.cnblogs.com/sammyliu/p/4905726.html
+理解 OpenStack Swift （1）：OpenStack + 三节点Swift 集群+ HAProxy + UCARP 安装和配置 - SammyLiu - 博客园
+2015-11-09 16:36
+http://www.cnblogs.com/sammyliu/p/4923432.html
+理解 OpenStack Swift （2）：架构、原理及功能 [Architecture, Implementation and Features] - SammyLiu - 博客园
+2015-11-16 08:56
+http://www.cnblogs.com/sammyliu/p/4955241.html
+我所了解的各公司使用的 Ceph 存储集群 (携程、乐视、有云、宝德云、联通等) - SammyLiu - 博客园
+2015-10-27 08:42
+http://www.cnblogs.com/sammyliu/p/4908668.html
+网络错误定位案例 ICMP host *** unreachable - admin prohibited - SammyLiu - 博客园
+2015-11-20 16:24
+http://www.cnblogs.com/sammyliu/p/4981194.html
+学习OpenStack之 (2)：Cinder LVM 配置 - SammyLiu - 博客园
+2014-12-12 10:24
+http://www.cnblogs.com/sammyliu/p/4159147.html
+学习OpenStack之 (1)：安装devstack - SammyLiu - 博客园
+2014-12-04 13:15
+http://www.cnblogs.com/sammyliu/p/4136466.html
+学习OpenStack之 (0)：基础知识 - SammyLiu - 博客园
+2014-12-03 10:10
+http://www.cnblogs.com/sammyliu/p/4139246.html
+学习OpenStack之 (3)：Devstack Screen 使用技巧 - SammyLiu - 博客园
+2014-12-12 12:51
+http://www.cnblogs.com/sammyliu/p/4159475.html
+探索 OpenStack 之（7）：Neutron 深入探索之 Open vSwitch (OVS) + GRE 之 Neutron节点篇 - SammyLiu - 博客园
+2015-01-05 15:49
+http://www.cnblogs.com/sammyliu/p/4201721.html
+学习OpenStack之（5）：在Mac上部署Juno版本OpenStack 四节点环境 - SammyLiu - 博客园
+2014-12-29 13:03
+http://www.cnblogs.com/sammyliu/p/4190843.html
+学习OpenStack之 (4)： Linux 磁盘、分区、挂载、逻辑卷管理 (Logical Volume Manager) - SammyLiu - 博客园
+2014-12-11 16:06
+http://www.cnblogs.com/sammyliu/p/4157491.html
+学习OpenStack之（6）：Neutron 深入学习之 OVS + GRE 之 Compute node 篇 - SammyLiu - 博客园
+2015-01-04 17:44
+http://www.cnblogs.com/sammyliu/p/4201143.html
+探索 OpenStack  之（8）：Neutron 深入探索之 OVS + GRE 之 完整网络流程 篇 - SammyLiu - 博客园
+2015-01-06 10:32
+http://www.cnblogs.com/sammyliu/p/4204190.html
+探索 OpenStack 之（10）：深入镜像服务Glance - SammyLiu - 博客园
+2015-01-26 10:51
+http://www.cnblogs.com/sammyliu/p/4249151.html
+探索 OpenStack 之（12）：cinder-api Service 处理 HTTP Request 的过程分析 - SammyLiu - 博客园
+2015-02-05 14:54
+http://www.cnblogs.com/sammyliu/p/4271239.html
+探索 OpenStack 之（9）：深入块存储服务Cinder （功能篇） - SammyLiu - 博客园
+2015-01-13 10:18
+http://www.cnblogs.com/sammyliu/p/4219974.html
+探索 OpenStack 之（11）：cinder-api Service 启动过程分析 以及 WSGI / Paste deploy / Router 等介绍 - SammyLiu - 博客园
+2015-02-04 16:01
+http://www.cnblogs.com/sammyliu/p/4272611.html
+我所了解的 京东、携程、eBay、小米 的 OpenStack 云 - SammyLiu - 博客园
+2015-02-11 09:16
+http://www.cnblogs.com/sammyliu/p/4284125.html
+探索 OpenStack 之（13）：研究 Keystone - SammyLiu - 博客园
+2015-02-10 14:11
+http://www.cnblogs.com/sammyliu/p/4277178.html
+我所理解的 惠普云 （HP Cloud） - SammyLiu - 博客园
+2015-02-13 09:16
+http://www.cnblogs.com/sammyliu/p/4286166.html
+Neutron 理解 (9):  OpenStack 是如何实现 Neutron 网络 和 Nova虚机 防火墙的  [How Nova Implements Security Group and How Neutron Implements Virtual Firewall] - SammyLiu - 博客园
+2015-07-29 07:52
+http://www.cnblogs.com/sammyliu/p/4675991.html
+Nova 操作汇总（限 libvirt 虚机） [Nova Operations Summary] - SammyLiu - 博客园
+2015-08-23 06:51
+http://www.cnblogs.com/sammyliu/p/4571209.html
+理解 OpenStack 高可用（HA）（1）：OpenStack 高可用和灾备方案 [OpenStack HA and DR] - SammyLiu - 博客园
+2015-08-24 08:54
+http://www.cnblogs.com/sammyliu/p/4741967.html
+理解 OpenStack 高可用（HA）（5）：RabbitMQ HA - SammyLiu - 博客园
+2015-08-20 08:24
+http://www.cnblogs.com/sammyliu/p/4730517.html
+VMworld 2015 感受：VMware “Ready For Any” - SammyLiu - 博客园
+2015-09-01 13:52
+http://www.cnblogs.com/sammyliu/p/4774852.html
+理解 OpenStack 高可用（HA）（2）：Neutron L3 Agent HA 之 虚拟路由冗余协议（VRRP） - SammyLiu - 博客园
+2015-08-04 10:44
+http://www.cnblogs.com/sammyliu/p/4692081.html
+Neutron 理解（10）：虚拟专用网（VPN）虚拟化 [How Neutron implements VPN Virtualization] - SammyLiu - 博客园
+2015-07-29 09:50
+http://www.cnblogs.com/sammyliu/p/4677386.html
+理解 OpenStack 高可用（HA）（3）：Neutron 分布式虚拟路由（Neutron Distributed Virtual Routing） - SammyLiu - 博客园
+2015-08-17 08:47
+http://www.cnblogs.com/sammyliu/p/4713562.html
+[译] libvirt 虚机的生命周期 （Libvirt Virtual Machine Lifecycle） - SammyLiu - 博客园
+2015-05-08 08:55
+http://www.cnblogs.com/sammyliu/p/4486712.html
+理解 OpenStack + Ceph （3）：Ceph RBD 接口和工具 [Ceph RBD API and Tools] - SammyLiu - 博客园
+2015-09-25 16:30
+http://www.cnblogs.com/sammyliu/p/4838139.html
+磁盘、分区及Linux文件系统 [Disk, Partition, Linux File System] - SammyLiu - 博客园
+2015-05-22 06:44
+http://www.cnblogs.com/sammyliu/p/4521315.html
+KVM 介绍（1）：简介及安装 - SammyLiu - 博客园
+2015-06-02 11:29
+http://www.cnblogs.com/sammyliu/p/4543110.html
+KVM 介绍（2）：CPU 和内存虚拟化 - SammyLiu - 博客园
+2015-06-02 17:07
+http://www.cnblogs.com/sammyliu/p/4543597.html
+理解 OpenStack + Ceph （1）：Ceph + OpenStack 集群部署和配置 - SammyLiu - 博客园
+2015-09-23 09:46
+http://www.cnblogs.com/sammyliu/p/4804037.html
+[转] OpenStack Kilo 更新日志 - SammyLiu - 博客园
+2015-05-29 16:43
+http://www.cnblogs.com/sammyliu/p/4538890.html
+KVM 介绍（3）：I/O 全虚拟化和准虚拟化 [KVM I/O QEMU Full-Virtualizaiton Para-virtualization] - SammyLiu - 博客园
+2015-06-03 13:10
+http://www.cnblogs.com/sammyliu/p/4543657.html
+KVM 介绍（4）：I/O 设备直接分配和 SR-IOV [KVM PCI/PCIe Pass-Through SR-IOV] - SammyLiu - 博客园
+2015-06-05 08:06
+http://www.cnblogs.com/sammyliu/p/4548194.html
+聊聊 IBM 收购 OpenStack 托管私有云公司 Blue Box 这点事 [IBM Acquired Blue Box] - SammyLiu - 博客园
+2015-06-09 15:38
+http://www.cnblogs.com/sammyliu/p/4562728.html
+KVM 介绍（5）：libvirt 介绍 [ Libvrit for KVM/QEMU ] - SammyLiu - 博客园
+2015-06-09 08:52
+http://www.cnblogs.com/sammyliu/p/4558638.html
+KVM 介绍（6）：Nova 通过 libvirt 管理 QEMU/KVM 虚机 [Nova Libvirt QEMU/KVM Domain] - SammyLiu - 博客园
+2015-06-11 17:57
+http://www.cnblogs.com/sammyliu/p/4568188.html
+Hadoop 概述 - SammyLiu - 博客园
+2015-04-06 10:41
+http://www.cnblogs.com/sammyliu/p/4395563.html
+探索 OpenStack 之（17）：计量模块 Ceilometer 中的数据收集机制 - SammyLiu - 博客园
+2015-04-03 08:41
+http://www.cnblogs.com/sammyliu/p/4384470.html
+SSH 无密码访问其它机器 和 Windows 上 putty 无密码访问 Linux 机器 - SammyLiu - 博客园
+2015-04-11 08:51
+http://www.cnblogs.com/sammyliu/p/4416187.html
+Hadoop 数据库 - HBase - SammyLiu - 博客园
+2015-04-06 21:19
+http://www.cnblogs.com/sammyliu/p/4396654.html
+Hadoop 2.0 中的资源管理框架 - YARN(Yet Another Resource Negotiator) - SammyLiu - 博客园
+2015-04-06 16:42
+http://www.cnblogs.com/sammyliu/p/4396162.html
+Hadoop 分布式文件系统 - HDFS - SammyLiu - 博客园
+2015-04-06 17:23
+http://www.cnblogs.com/sammyliu/p/4396225.html
+Hadoop 1.0 和 2.0 中的数据处理框架 - MapReduce - SammyLiu - 博客园
+2015-04-06 16:31
+http://www.cnblogs.com/sammyliu/p/4396142.html
+[To be translated] Nova：libvirt image 的生命周期 - SammyLiu - 博客园
+2015-04-15 08:54
+http://www.cnblogs.com/sammyliu/p/4427567.html
+Neutron 理解（5）：Neutron 是如何向 Nova 虚机分配固定IP地址的 （How Neutron Allocates Fixed IPs to Nova Instance） - SammyLiu - 博客园
+2015-04-13 08:27
+http://www.cnblogs.com/sammyliu/p/4419195.html
+Cinder 调试 - cinder service 状态为 down - SammyLiu - 博客园
+2015-04-11 15:34
+http://www.cnblogs.com/sammyliu/p/4417091.html
+VMware + OpenStack: 从 Plugin 到 VIO （VMware Integrated OpenStack）的演进 - SammyLiu - 博客园
+2015-03-24 13:15
+http://www.cnblogs.com/sammyliu/p/4362237.html
+探索 OpenStack 之（15）：oslo.messaging 和 Cinder 中 MessageQueue 消息的发送和接收 - SammyLiu - 博客园
+2015-03-23 08:44
+http://www.cnblogs.com/sammyliu/p/4335339.html
+Nova: 虚机的块设备总结 [Nova Instance Block Device] - SammyLiu - 博客园
+2015-06-13 21:00
+http://www.cnblogs.com/sammyliu/p/4462718.html
+探索 OpenStack 之（14）：OpenStack 中 RabbitMQ 的使用 - SammyLiu - 博客园
+2015-02-16 11:16
+http://www.cnblogs.com/sammyliu/p/4293011.html
+探索 OpenStack 之（16）：计量模块 Ceilometer 介绍及优化 - SammyLiu - 博客园
+2015-04-02 07:07
+http://www.cnblogs.com/sammyliu/p/4383289.html
+Neutron 理解 (1): Neutron 所实现的虚拟化网络 [How Netruon Virtualizes Network] - SammyLiu - 博客园
+2015-07-07 08:56
+http://www.cnblogs.com/sammyliu/p/4622563.html
+KVM 介绍（8）：使用 libvirt 迁移 QEMU/KVM 虚机和 Nova 虚机 [Nova Libvirt QEMU/KVM Live Migration] - SammyLiu - 博客园
+2015-06-24 09:51
+http://www.cnblogs.com/sammyliu/p/4572287.html
+KVM 介绍（7）：使用 libvirt 做 QEMU/KVM 快照和 Nova 实例的快照 （Nova Instances Snapshot Libvirt） - SammyLiu - 博客园
+2015-06-15 08:51
+http://www.cnblogs.com/sammyliu/p/4468757.html
+Neutron 理解 (2): 使用 Open vSwitch + VLAN 组网 [Netruon Open vSwitch + VLAN Virutal Network] - SammyLiu - 博客园
+2015-07-08 08:45
+http://www.cnblogs.com/sammyliu/p/4626419.html
+Neutron 理解 (3): Open vSwitch + GRE/VxLAN 组网 [Netruon Open vSwitch + GRE/VxLAN Virutal Network] - SammyLiu - 博客园
+2015-07-10 08:52
+http://www.cnblogs.com/sammyliu/p/4627230.html
+Neutron 理解 (4): Neutron OVS OpenFlow 流表 和 L2 Population  [Netruon OVS OpenFlow tables + L2 Population] - SammyLiu - 博客园
+2015-07-13 08:56
+http://www.cnblogs.com/sammyliu/p/4633814.html
+Neutron 理解 (7): Neutron 是如何实现负载均衡器虚拟化的  [LBaaS V1 in Juno] - SammyLiu - 博客园
+2015-07-20 08:21
+http://www.cnblogs.com/sammyliu/p/4656176.html
+Neutron 理解 (6): Neutron 是怎么实现虚拟三层网络的  [How Neutron implements virtual L3 network] - SammyLiu - 博客园
+2015-07-21 08:53
+http://www.cnblogs.com/sammyliu/p/4636091.html
+Neutron 理解 (8): Neutron 是如何实现虚机防火墙的  [How Neutron Implements Security Group] - SammyLiu - 博客园
+2015-07-27 08:52
+http://www.cnblogs.com/sammyliu/p/4658746.html
